@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    text-align: center;
+    background-color: teal;
+    color: white;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.authorText {
+    margin: 20px;
+    text-align: right;
+}
+
+img {
+    margin: 10px;
+    border-radius: 80px;
+}
+
+.mr-10 {
+    margin-right: 10px;
+} 
